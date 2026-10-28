@@ -1,4 +1,0 @@
-1. Solicito a criação de uma página de contato com formulário para envio de mensagens.
-2. Solicito a atualização do horário de atendimento exibido no site.
-3. Solicito a inclusão de um filtro de busca por categoria na lista de produtos.
-4. Solicito a correção do link de recuperação de senha na tela de login.
